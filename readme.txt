@@ -68,7 +68,7 @@ Usage:
 
 Dependencies: 
 Steerable Pyramid Toolbox, Download from: http://www.cns.nyu.edu/~eero/steerpyr/
-LibSVM package for MATLAB, Download from: http://www.csie.ntu.edu.tw/~cjlin/libsvm/
+LibSVM package for MATLAB, Download from: https://github.com/gregfreeman/libsvm/tree/new_matlab_interface
 You may need the MATLAB Image Processing Toolbox
 
 Dependencies--
